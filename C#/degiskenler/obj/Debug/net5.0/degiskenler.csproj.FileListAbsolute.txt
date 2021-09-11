@@ -1,0 +1,15 @@
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/degiskenler/bin/Debug/net5.0/degiskenler.deps.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/degiskenler/bin/Debug/net5.0/degiskenler.runtimeconfig.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/degiskenler/bin/Debug/net5.0/degiskenler.runtimeconfig.dev.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/degiskenler/bin/Debug/net5.0/degiskenler.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/degiskenler/bin/Debug/net5.0/ref/degiskenler.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/degiskenler/bin/Debug/net5.0/degiskenler.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/degiskenler/obj/Debug/net5.0/degiskenler.csproj.AssemblyReference.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/degiskenler/obj/Debug/net5.0/degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/degiskenler/obj/Debug/net5.0/degiskenler.AssemblyInfoInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/degiskenler/obj/Debug/net5.0/degiskenler.AssemblyInfo.cs
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/degiskenler/obj/Debug/net5.0/degiskenler.csproj.CoreCompileInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/degiskenler/obj/Debug/net5.0/degiskenler.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/degiskenler/obj/Debug/net5.0/ref/degiskenler.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/degiskenler/obj/Debug/net5.0/degiskenler.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/degiskenler/obj/Debug/net5.0/degiskenler.genruntimeconfig.cache
