@@ -1,0 +1,15 @@
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/console-programlama/bin/Debug/net5.0/console-programlama.deps.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/console-programlama/bin/Debug/net5.0/console-programlama.runtimeconfig.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/console-programlama/bin/Debug/net5.0/console-programlama.runtimeconfig.dev.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/console-programlama/bin/Debug/net5.0/console-programlama.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/console-programlama/bin/Debug/net5.0/ref/console-programlama.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/console-programlama/bin/Debug/net5.0/console-programlama.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.csproj.AssemblyReference.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.AssemblyInfoInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.AssemblyInfo.cs
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.csproj.CoreCompileInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/console-programlama/obj/Debug/net5.0/ref/console-programlama.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.genruntimeconfig.cache
