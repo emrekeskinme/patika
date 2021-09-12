@@ -1,0 +1,15 @@
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/operatorler/bin/Debug/net5.0/operatorler.deps.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.dev.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/operatorler/bin/Debug/net5.0/operatorler.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/operatorler/bin/Debug/net5.0/ref/operatorler.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/operatorler/bin/Debug/net5.0/operatorler.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/operatorler/obj/Debug/net5.0/operatorler.csproj.AssemblyReference.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/operatorler/obj/Debug/net5.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfoInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfo.cs
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/operatorler/obj/Debug/net5.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/operatorler/obj/Debug/net5.0/operatorler.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/operatorler/obj/Debug/net5.0/ref/operatorler.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/operatorler/obj/Debug/net5.0/operatorler.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/operatorler/obj/Debug/net5.0/operatorler.genruntimeconfig.cache
