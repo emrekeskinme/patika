@@ -1,0 +1,15 @@
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.deps.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.dev.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/tip-donusumleri/bin/Debug/net5.0/ref/tip-donusumleri.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csproj.AssemblyReference.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfoInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfo.cs
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csproj.CoreCompileInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/tip-donusumleri/obj/Debug/net5.0/ref/tip-donusumleri.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.genruntimeconfig.cache
