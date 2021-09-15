@@ -1,0 +1,15 @@
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/if-else/bin/Debug/net5.0/if-else.deps.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/if-else/bin/Debug/net5.0/if-else.runtimeconfig.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/if-else/bin/Debug/net5.0/if-else.runtimeconfig.dev.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/if-else/bin/Debug/net5.0/if-else.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/if-else/bin/Debug/net5.0/ref/if-else.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/if-else/bin/Debug/net5.0/if-else.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/if-else/obj/Debug/net5.0/if-else.csproj.AssemblyReference.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/if-else/obj/Debug/net5.0/if-else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/if-else/obj/Debug/net5.0/if-else.AssemblyInfoInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/if-else/obj/Debug/net5.0/if-else.AssemblyInfo.cs
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/if-else/obj/Debug/net5.0/if-else.csproj.CoreCompileInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/if-else/obj/Debug/net5.0/if-else.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/if-else/obj/Debug/net5.0/ref/if-else.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/if-else/obj/Debug/net5.0/if-else.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/if-else/obj/Debug/net5.0/if-else.genruntimeconfig.cache
