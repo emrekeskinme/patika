@@ -1,0 +1,15 @@
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/for-loop/bin/Debug/net5.0/for-loop.deps.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/for-loop/bin/Debug/net5.0/for-loop.runtimeconfig.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/for-loop/bin/Debug/net5.0/for-loop.runtimeconfig.dev.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/for-loop/bin/Debug/net5.0/for-loop.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/for-loop/bin/Debug/net5.0/ref/for-loop.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/for-loop/bin/Debug/net5.0/for-loop.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/for-loop/obj/Debug/net5.0/for-loop.csproj.AssemblyReference.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/for-loop/obj/Debug/net5.0/for-loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/for-loop/obj/Debug/net5.0/for-loop.AssemblyInfoInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/for-loop/obj/Debug/net5.0/for-loop.AssemblyInfo.cs
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/for-loop/obj/Debug/net5.0/for-loop.csproj.CoreCompileInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/for-loop/obj/Debug/net5.0/for-loop.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/for-loop/obj/Debug/net5.0/ref/for-loop.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/for-loop/obj/Debug/net5.0/for-loop.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/for-loop/obj/Debug/net5.0/for-loop.genruntimeconfig.cache

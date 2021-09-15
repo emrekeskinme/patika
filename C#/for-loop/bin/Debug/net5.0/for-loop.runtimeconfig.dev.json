@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/keskin/.dotnet/store/|arch|/|tfm|",
+      "/Users/keskin/.nuget/packages"
+    ]
+  }
+}
