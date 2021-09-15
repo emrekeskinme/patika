@@ -1,0 +1,15 @@
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/while-foreach/bin/Debug/net5.0/while-foreach.deps.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/while-foreach/bin/Debug/net5.0/while-foreach.runtimeconfig.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/while-foreach/bin/Debug/net5.0/while-foreach.runtimeconfig.dev.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/while-foreach/bin/Debug/net5.0/while-foreach.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/while-foreach/bin/Debug/net5.0/ref/while-foreach.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/while-foreach/bin/Debug/net5.0/while-foreach.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/while-foreach/obj/Debug/net5.0/while-foreach.csproj.AssemblyReference.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/while-foreach/obj/Debug/net5.0/while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/while-foreach/obj/Debug/net5.0/while-foreach.AssemblyInfoInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/while-foreach/obj/Debug/net5.0/while-foreach.AssemblyInfo.cs
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/while-foreach/obj/Debug/net5.0/while-foreach.csproj.CoreCompileInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/while-foreach/obj/Debug/net5.0/while-foreach.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/while-foreach/obj/Debug/net5.0/ref/while-foreach.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/while-foreach/obj/Debug/net5.0/while-foreach.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/while-foreach/obj/Debug/net5.0/while-foreach.genruntimeconfig.cache
