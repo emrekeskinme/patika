@@ -1,0 +1,15 @@
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler/bin/Debug/net5.0/diziler.deps.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler/bin/Debug/net5.0/diziler.runtimeconfig.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler/bin/Debug/net5.0/diziler.runtimeconfig.dev.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler/bin/Debug/net5.0/diziler.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler/bin/Debug/net5.0/ref/diziler.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler/bin/Debug/net5.0/diziler.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler/obj/Debug/net5.0/diziler.csproj.AssemblyReference.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler/obj/Debug/net5.0/diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler/obj/Debug/net5.0/diziler.AssemblyInfoInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler/obj/Debug/net5.0/diziler.AssemblyInfo.cs
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler/obj/Debug/net5.0/diziler.csproj.CoreCompileInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler/obj/Debug/net5.0/diziler.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler/obj/Debug/net5.0/ref/diziler.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler/obj/Debug/net5.0/diziler.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler/obj/Debug/net5.0/diziler.genruntimeconfig.cache
