@@ -1,0 +1,15 @@
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.deps.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.runtimeconfig.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.runtimeconfig.dev.json
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler-array-sinifi-metodlari/bin/Debug/net5.0/ref/diziler-array-sinifi-metodlari.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler-array-sinifi-metodlari/bin/Debug/net5.0/diziler-array-sinifi-metodlari.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.csproj.AssemblyReference.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.AssemblyInfoInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.AssemblyInfo.cs
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.csproj.CoreCompileInputs.cache
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/ref/diziler-array-sinifi-metodlari.dll
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.pdb
+/Users/keskin/Desktop/EK/Patika/C# Eğitim/Pratikler/diziler-array-sinifi-metodlari/obj/Debug/net5.0/diziler-array-sinifi-metodlari.genruntimeconfig.cache
